@@ -1,0 +1,70 @@
+{
+    "personalDetails": {
+        "education": [
+            "CompTIA Network+ Certified",
+            "Associate's Degree in Computer Science",
+            "94-M Radar Repairer in US Army: Completed equivalent of AS in Electronics Engineering"
+        ],
+        "experience": [
+            {
+                "title": "Field Support Engineer",
+                "company": "Integra Tech Support",
+                "companyDescription": "Integra Tech Support is more than just a tech support staffing agency; we're your strategic ally in navigating the complexities of technology. Our commitment is to empower your enterprise with tailored, certified, boots-on-the-ground tech solutions that address your project's unique needs.",
+                "personalNotes": "This is the applicant's current position. Applicant is the sole proprietor and sole full-time employee of this company.",
+                "employmentLength": "7 years",
+                "jobDuties": "Provide high quality support for computer, network, and audio-visual hardware, operating systems, and application software Installation and troubleshooting, configuration, cabling and terminations, system administration, and end-user support across the full range of business, government, healthcare, education, retail, and hospitality sectors."
+            },
+            {
+                "title": "Commissioning Engineer",
+                "company": "AVI-SPL",
+                "companyDescription": "AVI-SPL is a digital enablement solutions provider that transforms how people and technology connect to elevate experiences, create new value, and enable organizations to thrive and grow. As the leading provider of collaboration technology solutions, which include our award-winning managed services, our highly trained team works hand-in-hand with organizations worldwide—including more than 86% of Fortune 100 companies. Our experienced teams strategize, design, deploy, manage, and support audiovisual (AV) and unified communications (UC) solutions that are simple-to-use, scalable, serviceable, and measurable to ensure business objectives are achieved.",
+                "personalNotes": "AVI-SPL is the largest and most well-respected Audio-Visual integrator in the world. Applicant gained valuable experience with engineering level Audio-Visual concepts and troubleshooting tools.",
+                "employmentLength": "2 years",
+                "jobDuties": "Configure, commission, and support complex, multi-room A/V and control systems. Upload and edit code for AV equipment such as (Biamp QSC/BSS/ClearOne). Upload, debug, and edit code for control systems (Crestron/Extron/AMX), matrix mixers and switchers, VTC (Cisco/Polycom Troubleshoot using standard AV technician's toolkit. Understand advanced system drawings, specifications and technical manuals. Read, redline generate new drawings, schematics, and rack elevations. Provide world-class customer service and training."
+            },
+            {
+                "title": "Audio-Visual Technician",
+                "company": "LN Audio Design",
+                "companyDescription": "LN Audio Design was a premiere AV integrator in the Chicagoland area, providing installation, service, and support of collaboration technology solutions, zoned audio solutions for offices and retail environments, and room control systems.",
+                "employmentLength": "3 years",
+                "jobDuties": "Configure, commission, and support complex, multi-room A/V and control systems. Upload and edit code for AV equipment such as (Biamp QSC/BSS/ClearOne). Upload, debug, and edit code for control systems (Crestron/Extron/AMX), matrix mixers and switchers, VTC (Cisco/Polycom Troubleshoot using standard AV technician's toolkit. Understand advanced system drawings, specifications and technical manuals. Read, redline generate new drawings, schematics, and rack elevations. Provide world-class customer service and training."
+            },
+            {
+                "title": "IT Service Engineer",
+                "company": "Johnson Computer Services",
+                "companyDescription": "Located in Grayslake, Illinois, Johnson Computer Services provides professional Grayslake computer repair and Grayslake cell phone repair services. Are you a resident of Grayslake or the surrounding communities in Lake County, Illinois? Do you need expert and efficient electronic device repair services for your cell phone, laptop computer, desktop computer, tablet, or gaming console? If so, Johnson Computer Services is here to help. As a leading technology repair provider in Grayslake and nearby towns, we offer premium computer repair and cell phone repair services done right. Our certified technicians are committed to providing quality repairs and support for any electronic device issues with a focus on customer satisfaction and fast turnaround times.",
+                "employmentLength": "2 years",
+                "jobDuties": "Install, troubleshoot, and repair different types of issues affecting consumer and enterprise computer systems, servers, and networks. Disassemble and reassemble laptops, tablets, gaming consoles, and phones to perform advanced, component-level upgrades and repairs Provide Zendesk powered support and asset management for business clients."
+            }
+        ]
+    },
+    "serviceOfferings": "Description of specific IT services or solutions offered, including any specialized technology or software expertise.",
+    "targetAudience": "Description of primary clients or target market for these services.",
+    "uniqueSellingPoints": [
+        "Responsiveness to client needs",
+        "Expertise in specific technologies or software",
+        "High-quality customer service",
+        "Niche skills or solutions unique to your business"
+    ],
+    "successStories": [
+        {
+            "client": "Client or project name",
+            "challenge": "Brief description of the challenge faced",
+            "solution": "Solution provided by your services",
+            "outcome": "Positive outcome or feedback received"
+        }
+    ],
+    "professionalGoals": "Your long-term goals for this project or business and how this work order fits into those objectives.",
+    "personalBackground": {
+        "experience": "Years of experience and relevant fields",
+        "education": "Relevant educational background",
+        "skills": "Key skills related to the IT field and service offerings"
+    },
+    "challengesOvercome": [
+        {
+            "challenge": "Significant challenge faced",
+            "solution": "How it was overcome, demonstrating problem-solving skills and resilience"
+        }
+    ]
+}
+  
