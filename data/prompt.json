@@ -38,7 +38,7 @@
             }
         ]
     },
-    "serviceOfferings": "Description of specific IT services or solutions offered, including any specialized technology or software expertise.",
+    "serviceOfferings": [],
     "targetAudience": "Description of primary clients or target market for these services.",
     "uniqueSellingPoints": [
         "Responsiveness to client needs",
@@ -54,16 +54,21 @@
             "outcome": "Positive outcome or feedback received"
         }
     ],
-    "professionalGoals": "Your long-term goals for this project or business and how this work order fits into those objectives.",
-    "personalBackground": {
-        "experience": "Years of experience and relevant fields",
-        "education": "Relevant educational background",
-        "skills": "Key skills related to the IT field and service offerings"
-    },
     "challengesOvercome": [
         {
             "challenge": "Significant challenge faced",
             "solution": "How it was overcome, demonstrating problem-solving skills and resilience"
+        }
+    ],
+    "exampleGreetings": [
+        {
+            "title": "Serial Cable Replacement",
+            "company": {
+                "name": "Brandpoint Services",
+                "description": "It's about keeping you connected with your customers, teams and partners wherever they go. Whether you're looking to educate and motivate customers at the point-of-purchase, or keep communication open  throughout an office, we help brands engage with their audiences through large format displays like  video walls, menu boards , projectors, kiosks, interactive displays and POS across the US and Canada."
+            },
+            "description": "The Cafe Menu video left media player needs serial cable (RS-232) replacement. S/N(D3E995001070)",
+            "greeting": "Greetings! I am a field support specialist specializing in pro AV with an extensive amount of experience diagnosing and repairing AV control systems of all types. I have a full kit of serial RS-232 testers, adapters, and cables, can easily identify the affected control cable(s) and provide a fix with no issues. I am also highly professional, reliable, organized, and always a customer favorite! Please see my LinkedIn linked below for a more detailed overview of my work history and experience. Thank you for your time and consideration, have great day!\n\nwww.linkedin.com/in/jsherrick"
         }
     ]
 }
