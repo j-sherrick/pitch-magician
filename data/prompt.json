@@ -38,8 +38,12 @@
             }
         ]
     },
-    "serviceOfferings": [],
-    "targetAudience": "Description of primary clients or target market for these services.",
+    "targetAudience": "IT managed service providers outsourcing work to gig platforms. MSPs in the retail, medium and large office, hospitality, and financial sectors.",
+    "serviceOfferings": [
+        "Digital signage installation, upgrade, troubleshooting and repair",
+        "Audio-visual systems such as PAs, sound masking, and muzak for stores and offices.",
+        "Installation and commissioning of collaboration and conference spaces."
+    ],
     "uniqueSellingPoints": [
         "Responsiveness to client needs",
         "Expertise in specific technologies or software",
