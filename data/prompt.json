@@ -1,9 +1,18 @@
 {
     "personalDetails": {
-        "education": [
-            "CompTIA Network+ Certified",
-            "Associate's Degree in Computer Science",
-            "MOS 94-M - Radar Repairer, US Army: Completed equivalent of AS in Electronics Engineering"
+        "credentials": [
+            {
+                "type": "certificate",
+                "org": "CompTIA",
+                "title": "Network+",
+                "program": "N10-008"
+            },
+            {
+                "type": "degree",
+                "org": "College of Lake County",
+                "title": "Associate in Science",
+                "program": "Computer Science"
+            }
         ],
         "experience": [
             {
@@ -40,6 +49,7 @@
         "skills": [
             {
                 "category": "physical security",
+
                 "subcategories": [
                     {
                         "category": "access control",
@@ -91,7 +101,7 @@
             },
             {
                 "category": "networking",
-                "certifications": ["CompTIA Network+"],
+                
                 "subcategories": [
                     {
                         "category": "wireless equipment",
@@ -134,6 +144,9 @@
                         "category": "network equipment",
                         "proficiencies": [
                             "routers",
+                            "LAN",
+                            "WAN",
+                            "SD-WAN",
                             "ethernet switches",
                             "fiber channel switches",
                             "serial adapters",
@@ -144,11 +157,13 @@
                             "QSFP",
                             "QSFP+",
                             "firewalls",
-                            "UPS battery backups",
-                            "network area storage",
+                            "UPS",
+                            "NAS",
                             "rack elevations",
-                            "cross connect sheets",
+                            "cross connect charts",
                             "network diagrams",
+                            "blueprints",
+                            "apply labels",
                             "low-voltage wiring",
                             "identify equipment",
                             "identify wiring",
@@ -173,14 +188,21 @@
                             "Fortinet",
                             "Juniper",
                             "Extreme Networks",
-                            "NETGEAR"
+                            "NETGEAR",
+                            "APC",
+                            "Tripp Lite",
+                            "CyberPower",
+                            "BUFFALO",
+                            "TERRAMASTER",
+                            "Synology",
+                            "Dell"
                         ]
                     },
                     {
-                        "category": "cabling",
+                        "category": "wiring",
                         "proficiencies": [
                             "low-voltage wiring",
-                            "wiring terminations",
+                            "copper terminations",
                             "RJ-45",
                             "modular plugs",
                             "keystone jacks",
@@ -193,41 +215,205 @@
                             "66 blocks",
                             "blueprints",
                             "network diagrams",
+                            "cross connect charts",
+                            "apply labels",
                             "read",
                             "interpret",
                             "identify wiring",
-                            "identify optimum cable path",
+                            "identify cable path",
                             "fish tape",
                             "fish rods",
-                            "cable & patch panel labeling",
-                            "dressing cables & cable organization"
+                            "labeling",
+                            "cable management"
+                        ],
+                        "proficiencyLevel": "Advanced",
+                        "yearsOfExperience": 10,
+                        "majorBrands": [
+                            "Klein",
+                            "Fluke",
+                            "Leviton",
+                            "TRENDnet",
+                            "Cable Matters",
+                            "Monoprice",
+                            "trueCABLE",
+                            "Cables To Go",
+                            "Tripp Lite",
+                            "Panduit"
                         ]
                     }
                 ]
             },
             {
-                "category": "telecommunications"
+                "category": "telecommunications",
+
+                "subcategories": [
+                    {
+                        "category": "VoIP/SIP",
+                        "proficiencies": [
+                            "unified communications",
+                            "routers",
+                            "switches",
+                            "QoS",
+                            "gateways",
+                            "cable patching",
+                            "CUC",
+                            "SIP protocol",
+                            "SIP proxy",
+                            "SIP server",
+                            "LAN",
+                            "WAN",
+                            "VPN",
+                            "VLAN",
+                            "tagging",
+                            "trunking",
+                            "phones",
+                            "install",
+                            "configure",
+                            "deinstall",
+                            "troublshoot",
+                            "diagnose",
+                            "repair"
+                        ],
+                        "proficiencyLevel": "Advanced",
+                        "yearsOfExperience": 10,
+                        "majorBrands": [
+                            "Avaya",
+                            "Cisco",
+                            "Yealink",
+                            "Poly",
+                            "Grandstream",
+                            "Ooma",
+                            "Nextiva",
+                            "RingCentral"
+                        ]
+                    },
+                    {
+                        "category": "POTS (plain old telephone service)",
+                        "proficiencies": [
+                            "66 blocks",
+                            "RJ-11",
+                            "ATA (analog telephone adapter)",
+                            "E1/T1",
+                            "PSTN",
+                            "ISDN",
+                            "trunking",
+                            "gateways",
+                            "configure",
+                            "amphenol connector",
+                            "pots-in-a-box",
+                            "PBX",
+                            "punch-down tool",
+                            "VoIP integration",
+                            "diagnose",
+                            "troublshoot",
+                            "repair",
+                            "install",
+                            "deinstall",
+                            "identify wiring",
+                            "low-voltage wiring",
+                            "cable toner",
+                            "cable crimper",
+                            "cable tester"
+                        ],
+                        "proficiencyLevel": "Advanced",
+                        "yearsOfExperience": 10,
+                        "majorBrands": [
+                            "Avaya",
+                            "Cisco",
+                            "Grandstream",
+                            "DataRemote",
+                            "Adtran",
+                            "Sangoma",
+                            "AudioCodes"
+                        ]
+                    }
+                ]
             },
             {
-                "category": "printer/copier"
+                "category": "printer/copier",
+                "proficiencies": [
+                    "troubleshoot",
+                    "maintenance",
+                    "repair",
+                    "diagnose",
+                    "triage",
+                    "scanner",
+                    "fax",
+                    "copy",
+                    "troubleshoot hardware",
+                    "install toner",
+                    "install maintenance kit",
+                    "reset maintenance kit",
+                    "install components",
+                    "firmware upgrades",
+                    "paper jams",
+                    "print quality issues",
+                    "lift 50+ pounds",
+                    "configure",
+                    "accessories",
+                    "upgrades",
+                    "cleaning",
+                    "install drivers",
+                    "installation/move/add/change (IMAC) activities",
+                    "parts procurement"
+                ],
+                "proficiencyLevel": "Advanced",
+                "yearsOfExperience": 10,
+                "majorBrands": [
+                    "HP",
+                    "Brother",
+                    "Xerox",
+                    "Canon",
+                    "Lexmark",
+                    "Ricoh",
+                    "Zebra",
+                    "Konica Minolta",
+                    "Kodak",
+                    "Kyocera",
+                    "Dymo"
+                ]
             },
             {
-                "category": "desktop/laptop"
+                "category": "desktop/laptop",
+                "proficiencies": [],
+                "proficiencyLevel": "",
+                "yearsOfExperience": 12,
+                "majorBrands": []
             },
             {
-                "category": "server/storage"
+                "category": "server/storage",
+                "proficiencies": [],
+                "proficiencyLevel": "",
+                "yearsOfExperience": 12,
+                "majorBrands": []
             },
             {
-                "category": "point of sale"
+                "category": "point of sale",
+                "proficiencies": [],
+                "proficiencyLevel": "",
+                "yearsOfExperience": 12,
+                "majorBrands": []
             },
             {
-                "category": "surveillance systems"
+                "category": "surveillance systems",
+                "proficiencies": [],
+                "proficiencyLevel": "",
+                "yearsOfExperience": 12,
+                "majorBrands": []
             },
             {
-                "category": "audio-visual"
+                "category": "audio-visual",
+                "proficiencies": [],
+                "proficiencyLevel": "",
+                "yearsOfExperience": 12,
+                "majorBrands": []
             },
             {
-                "category": "digital signage"
+                "category": "digital signage",
+                "proficiencies": [],
+                "proficiencyLevel": "",
+                "yearsOfExperience": 12,
+                "majorBrands": []
             }
         ]
     },
