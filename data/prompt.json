@@ -3,14 +3,14 @@
         "education": [
             "CompTIA Network+ Certified",
             "Associate's Degree in Computer Science",
-            "94-M Radar Repairer in US Army: Completed equivalent of AS in Electronics Engineering"
+            "MOS 94-M - Radar Repairer, US Army: Completed equivalent of AS in Electronics Engineering"
         ],
         "experience": [
             {
                 "title": "Field Support Engineer",
                 "company": "Integra Tech Support",
                 "companyDescription": "Integra Tech Support is more than just a tech support staffing agency; we're your strategic ally in navigating the complexities of technology. Our commitment is to empower your enterprise with tailored, certified, boots-on-the-ground tech solutions that address your project's unique needs.",
-                "personalNotes": "This is the applicant's current position. Applicant is the sole proprietor and sole full-time employee of this company.",
+                "personalNotes": "This is the contractor's current position. Contractor is the sole proprietor and sole full-time employee of this company.",
                 "employmentLength": "7 years",
                 "jobDuties": "Provide high quality support for computer, network, and audio-visual hardware, operating systems, and application software Installation and troubleshooting, configuration, cabling and terminations, system administration, and end-user support across the full range of business, government, healthcare, education, retail, and hospitality sectors."
             },
@@ -30,16 +30,209 @@
                 "jobDuties": "Configure, commission, and support complex, multi-room A/V and control systems. Upload and edit code for AV equipment such as (Biamp QSC/BSS/ClearOne). Upload, debug, and edit code for control systems (Crestron/Extron/AMX), matrix mixers and switchers, VTC (Cisco/Polycom Troubleshoot using standard AV technician's toolkit. Understand advanced system drawings, specifications and technical manuals. Read, redline generate new drawings, schematics, and rack elevations. Provide world-class customer service and training."
             },
             {
-                "title": "IT Service Engineer",
+                "title": "IT Support Engineer",
                 "company": "Johnson Computer Services",
                 "companyDescription": "Located in Grayslake, Illinois, Johnson Computer Services provides professional Grayslake computer repair and Grayslake cell phone repair services. Are you a resident of Grayslake or the surrounding communities in Lake County, Illinois? Do you need expert and efficient electronic device repair services for your cell phone, laptop computer, desktop computer, tablet, or gaming console? If so, Johnson Computer Services is here to help. As a leading technology repair provider in Grayslake and nearby towns, we offer premium computer repair and cell phone repair services done right. Our certified technicians are committed to providing quality repairs and support for any electronic device issues with a focus on customer satisfaction and fast turnaround times.",
                 "employmentLength": "2 years",
                 "jobDuties": "Install, troubleshoot, and repair different types of issues affecting consumer and enterprise computer systems, servers, and networks. Disassemble and reassemble laptops, tablets, gaming consoles, and phones to perform advanced, component-level upgrades and repairs Provide Zendesk powered support and asset management for business clients."
             }
+        ],
+        "skills": [
+            {
+                "category": "physical security",
+                "subcategories": [
+                    {
+                        "category": "access control",
+                        "proficiencies": [
+                            "RFID readers",
+                            "low-voltage wiring",
+                            "identify equipment",
+                            "identify wiring",
+                            "install",
+                            "uninstall",
+                            "replace",
+                            "troublshoot",
+                            "diagnose",
+                            "repair"
+                        ],
+                        "proficiencyLevel": "Intermediate",
+                        "yearsOfExperience": 4,
+                        "majorBrands": [
+                            "HID Global",
+                            "Aiphone",
+                            "ButterflyMX",
+                            "Avigilon"
+                        ]
+                    },
+                    {
+                        "category": "burglar alarm",
+                        "proficiencies": [
+                            "low-voltage wiring",
+                            "identify equipment",
+                            "identify wiring",
+                            "install",
+                            "uninstall",
+                            "replace",
+                            "troublshoot",
+                            "diagnose",
+                            "repair"
+                        ],
+                        "proficiencyLevel": "Intermediate",
+                        "yearsOfExperience": 4,
+                        "majorBrands": [
+                            "Honeywell",
+                            "ADT",
+                            "Guardian Alarm",
+                            "United Technologies",
+                            "Brivo"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": "networking",
+                "certifications": ["CompTIA Network+"],
+                "subcategories": [
+                    {
+                        "category": "wireless equipment",
+                        "proficiencies": [
+                            "wireless access points",
+                            "wireless WAN equipment",
+                            "wireless site surveys",
+                            "cellular signal boosters",
+                            "low-voltage wiring",
+                            "identify equipment",
+                            "identify wiring",
+                            "install",
+                            "uninstall",
+                            "replace",
+                            "troublshoot",
+                            "diagnose",
+                            "repair"
+                        ],
+                        "proficiencyLevel": "Advanced",
+                        "yearsOfExperience": 10,
+                        "majorBrands": [
+                            "Cisco",
+                            "Cisco Meraki",
+                            "RUCKUS",
+                            "Ubiquiti",
+                            "Aruba",
+                            "Fortinet",
+                            "Juniper",
+                            "Extreme Networks",
+                            "Cradlepoint",
+                            "Sierra Wireless",
+                            "Peplink",
+                            "NETGEAR",
+                            "Ekahau",
+                            "NetSpot",
+                            "netAlly"
+                        ]
+                    },
+                    {
+                        "category": "network equipment",
+                        "proficiencies": [
+                            "routers",
+                            "ethernet switches",
+                            "fiber channel switches",
+                            "serial adapters",
+                            "puTTY",
+                            "Cisco IOS and NX-OS",
+                            "SFP",
+                            "SFP+",
+                            "QSFP",
+                            "QSFP+",
+                            "firewalls",
+                            "UPS battery backups",
+                            "network area storage",
+                            "rack elevations",
+                            "cross connect sheets",
+                            "network diagrams",
+                            "low-voltage wiring",
+                            "identify equipment",
+                            "identify wiring",
+                            "read",
+                            "interpret",
+                            "install",
+                            "uninstall",
+                            "replace",
+                            "troublshoot",
+                            "diagnose",
+                            "repair"
+                        ],
+                        "proficiencyLevel": "Advanced",
+                        "yearsOfExperience": 10,
+                        "majorBrands": [
+                            "Cisco",
+                            "Cisco Meraki",
+                            "HP Enterprise",
+                            "RUCKUS",
+                            "Ubiquiti",
+                            "Aruba",
+                            "Fortinet",
+                            "Juniper",
+                            "Extreme Networks",
+                            "NETGEAR"
+                        ]
+                    },
+                    {
+                        "category": "cabling",
+                        "proficiencies": [
+                            "low-voltage wiring",
+                            "wiring terminations",
+                            "RJ-45",
+                            "modular plugs",
+                            "keystone jacks",
+                            "punch-down tool",
+                            "cable crimper",
+                            "cable tester",
+                            "cable toner",
+                            "probe",
+                            "patch panels",
+                            "66 blocks",
+                            "blueprints",
+                            "network diagrams",
+                            "read",
+                            "interpret",
+                            "identify wiring",
+                            "identify optimum cable path",
+                            "fish tape",
+                            "fish rods",
+                            "cable & patch panel labeling",
+                            "dressing cables & cable organization"
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": "telecommunications"
+            },
+            {
+                "category": "printer/copier"
+            },
+            {
+                "category": "desktop/laptop"
+            },
+            {
+                "category": "server/storage"
+            },
+            {
+                "category": "point of sale"
+            },
+            {
+                "category": "surveillance systems"
+            },
+            {
+                "category": "audio-visual"
+            },
+            {
+                "category": "digital signage"
+            }
         ]
     },
     "targetAudience": "IT managed service providers outsourcing work to gig platforms. MSPs in the retail, medium and large office, hospitality, and financial sectors.",
-    "serviceOfferings": [
+    "servicesOffered": [
         "Digital signage installation, upgrade, troubleshooting and repair",
         "Audio-visual systems such as PAs, sound masking, and muzak for stores and offices.",
         "Installation and commissioning of collaboration and conference spaces."
