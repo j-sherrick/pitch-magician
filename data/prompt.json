@@ -333,6 +333,8 @@
                 "category": "printer/copier",
                 "proficiencies": [
                     "install",
+                    "uninstall",
+                    "decomission",
                     "maintenance",
                     "troubleshoot",
                     "repair",
@@ -388,7 +390,7 @@
                     "hardware",
                     "software",
                     "install",
-                    "deinstall",
+                    "uninstall",
                     "troubleshoot",
                     "diagnose",
                     "repair",
@@ -452,7 +454,8 @@
                     "build",
                     "custom build",
                     "install",
-                    "deinstall",
+                    "uninstall",
+                    "decomission",
                     "configure",
                     "troubleshoot",
                     "diagnose",
@@ -540,17 +543,100 @@
             },
             {
                 "category": "point of sale",
-                "proficiencies": [],
-                "proficiencyLevel": "",
+                "proficiencies": [
+                    "install",
+                    "uninstall",
+                    "troubleshoot",
+                    "diagnose",
+                    "repair",
+                    "upgrade",
+                    "memory",
+                    "SSD/HDD",
+                    "assemble kiosks",
+                    "assemble cash wraps",
+                    "self-checkout",
+                    "credit card processing",
+                    "peripherals",
+                    "card readers",
+                    "pin pads",
+                    "scanners",
+                    "receipt printers",
+                    "cash drawers",
+                    "scales",
+                    "terminal",
+                    "staging"
+                ],
+                "proficiencyLevel": "Advanced",
                 "yearsOfExperience": 12,
-                "brandProficiencies": []
+                "brandProficiencies": [
+                    "NCR",
+                    "Clover",
+                    "Square",
+                    "Ingenico",
+                    "Revel",
+                    "HP",
+                    "Royal",
+                    "Sharp",
+                    "Casio",
+                    "SAM4S",
+                    "Adesso",
+                    "Zebra",
+                    "Honeywell",
+                    "Intermec",
+                    "Datalogic",
+                    "Verifone",
+                    "PAX"
+                ]
             },
             {
                 "category": "surveillance systems",
-                "proficiencies": [],
+                "proficiencies": [
+                    "cctv",
+                    "ip cameras",
+                    "Network Video Recorder(NVR)",
+                    "Digital Video Recorder)(DVR)",
+                    "coax",
+                    "CAT6",
+                    "low-voltage wiring",
+                    "bnc connectors",
+                    "install",
+                    "uninstall",
+                    "program",
+                    "configure",
+                    "calibrate",
+                    "troubleshoot",
+                    "diagnose",
+                    "repair",
+                    "IP Video Management Systems(IPVMS)",
+                    "HD Over Coax",
+                    "analog cameras",
+                    "accessories",
+                    "mounting",
+                    "positioning",
+                    "PTZ cameras",
+                    "PTZ controllers"
+                ],
                 "proficiencyLevel": "",
                 "yearsOfExperience": 12,
-                "brandProficiencies": []
+                "brandProficiencies": [
+                    "Lorex",
+                    "Ubiquiti",
+                    "Hikvision",
+                    "Digital Watchdog(DW)",
+                    "DW Spectrum",
+                    "Amcrest",
+                    "Reolink",
+                    "Viewtron",
+                    "Hanwha",
+                    "Samsung",
+                    "Wyze",
+                    "Blink",
+                    "Ring",
+                    "Swann",
+                    "TP-Link",
+                    "Arlo",
+                    "Unifi"
+                ]
             },
             {
                 "category": "audio-visual",
@@ -603,6 +689,26 @@
             },
             "description": "The Cafe Menu video left media player needs serial cable (RS-232) replacement. S/N(D3E995001070)",
             "greeting": "Greetings! I am a field support specialist specializing in pro AV with an extensive amount of experience diagnosing and repairing AV control systems of all types. I have a full kit of serial RS-232 testers, adapters, and cables, can easily identify the affected control cable(s) and provide a fix with no issues. I am also highly professional, reliable, organized, and always a customer favorite! Please see my LinkedIn linked below for a more detailed overview of my work history and experience. Thank you for your time and consideration, have great day!\n\nwww.linkedin.com/in/jsherrick"
+        },
+        {
+            "title": "Troubleshoot HDMI connection",
+            "company": {
+                "name": "Netfor",
+                "description": "From retail to commercial and beyond, Netfor Field Services specializes in installing and managing technologies that keep businesses humming - and customers singing your praises. Whatever your technology needs - badge readers, cameras, cabling, networking, menu boards, drive-thru timers, headsets, and more - one of our reliable field service technicians is always nearby.\nNetfor has dozens of skilled experts, thousands of technicians nationwide, a state-of-the-art fulfillment center, and multiple locations sprinkled throughout the United States. Still true to our DNA, Netfor is committed to simplifying complex business processes and helping organizations focus on what they do best. "
+            },
+            "description": "MUST: Review SOW and ALL Requirements. Only apply if you fully understand what is needing to be completed. Ask questions if you should have any.\n***** *******\nSupport: (SEE CONFIDENTIAL INFO)\nTECH MUST CHECK IN AND OUT WITH A MERCY HOUSING CONTACT\nScope of Work:\nThe tech will need to reach out to Angela Pierce or the Property Manager once they arrive for the location of the TV.\nPM: Shanita McAbee-\nPhone: ***** ********\nSOW:\nTV displaying “No Signal” staff are not able to reconnect HDMI cable\nRemove TV from wall mount replace/reconnect HDMI cable\nCHECK IN/OUT PROCEDURE\nMust arrive onsite at the scheduled time (call Netfor for any unforeseen issues)\nCheck In via FE Portal\nCheck In with Netfor at  800-908-0226 opt. 1\nCheck In with ***** *******\nComplete installation per SOW.  Do not deviate away from the requested SOW unless you are authorized by Netfor.  If you are requested to complete additional work, inform Netfor immediately.  Document who requested the additional scope.  Without this we will not be able to pay and/or bill extra time.\nMust check out with ***** *************\nEnter detailed close out notes. What was completed onsite? What issues did you have? If you cross connected lines, they need to be labeled and documented.\nHave POC sign off on work order documenting check in and out times.\nNOTE: *** WE CANNOT PAY YOU FOR YOUR WORK WITHOUT ALL DELIVERABLES AND SIGN OFF SHEET SIGNED BY MANAGER ***\nCheck Out on Field Engineer (FN) Portal \nCheck out with Netfor at 800-908-0226 opt. 1\nTOOLS/MATERIALS\nPrepare tool bag/box with the following:\nLaptop (Windows 7 or higher)\nBasic IT Tools\nNetwork Testing Tools/Cable Testers\n8' Ladder\nCat5e Cabling\nDigital Camera / Camera Phone with this ability to send pictures before leaving site\nCopy of work order and job information\nAny other tools/materials you may think you need to complete the job on the first visit.\nEnsure a clean and wrinkle free uniform is ready:\nLong pants\nCollared shirt\nNetfor name badge\nClose toe shoes\nReview SOW and inform Netfor of any question prior to arriving on site.\nREQUIRED DELIVERABLES\nSigned Work Order with Date and Times\nPictures of area before working\nPictures of all equipment or cabling installed\nPictures of area once work is completed (showing area cleaned up)\nNotes:\nIf you are unable to reach Gloria and it's an emergency, please reach out to the other Mercy Housing POC (Listed in confidential section)\nFailure to call and notify Netfor could result in being blocked for future work.  We take being notified very seriously so we have time to notify the client.",
+
+            "greeting": "Hello! I am a field support engineer specializing in pro AV, with over 10 years experience working with some of the biggest integrators in the industry, I can troubleshoot, diagnose, resolve the issue, and provide detailed documentation of the full step by step problem remediation. Please see my LinkedIn, linked below, for a more detailed overview of my work history and expertise. Thank you for your time and consideration, I hope to work with you soon!\nLinkedin.com/in/jsherrick  "
+        },
+        {
+            "title": "Wall-To-Wall Inventory - Site 45",
+            "company": {
+                "name": "Argus IT Services",
+                "description": "Argus provides industry leading electronic hardware 'lifecycle management', including imaging and preparation of new systems, management of end of life systems, data destruction services, management of electronic waste or e-waste streams, asset repurposing targeting the “digital divide”, and information technology project services. We also specialize in IT staffing services with services ranging from Help Desk Personnel to Systems Programmers and Project Managers to Hardware Technicians and everything in-between."
+            },
+            "description": "We are looking for Smart Hands IT Technicians to perform a detailed, wall-to-wall inventory of all Network Equipment located at several Office Buildings & Distribution Sites across the East Coast. The following is the specific scope items to perform, and information and photos expected to be captured:\nCritical Scope of Work:\nWall to Wall IT Network Equipment Data Collection.\nTech will be expected to Document all available IT Equipment at the customer site.\nIncluding but not limited to the following:\nA Survey Document attached will be the deliverable and will include the following:\nDevice Host Name (were available)\nIP Address (were available)\nModel Number\nSerial Number\nMDF/IDF # (location)\nPower Status of all network equipment at the site\nOther required fields\nPhotos of each/all MDF/IDF will be required\nPhotos of Front and Back of MDF/IDF, without disrupting any cables / connections.\nPasted into the attached Survey Document\nTech is expected to document the details of any Spare IT Network Equipment available at the location.\nUsing the attached Survey Document\nTech is expected to document the Total number of Wireless Access Points (Aps) installed at the location.\nUsing the attached Survey Document\nAll Inventory Will be Documented on attached Standard Template.\nTech will be required to attend a brief training call to understand the Survey Template Requirements.",
+
+            "greeting": "Greetings! I am a CompTIA Network+ certified field technician with an abundance of hands on experience with all makes and models of network equipment, and will be able to easily identify all equipment to be inventoried, accurately logging all required data such as serial numbers, if needed. Please see my LinkedIn for a more detailed overview of my work history and experience. Thank you for your consideration, and have a great day!\nwww.linkedin.com/in/jsherrick"
         }
     ]
 }
